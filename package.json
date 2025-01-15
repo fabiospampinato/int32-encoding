@@ -2,6 +2,7 @@
   "name": "int32-encoding",
   "repository": "github:fabiospampinato/int32-encoding",
   "description": "Int32 encoding, a simple way to convert 32-bit signed integers to Uint8Arrays, and vice versa.",
+  "license": "MIT",
   "version": "1.0.0",
   "type": "module",
   "main": "dist/index.js",
@@ -21,8 +22,8 @@
     "encoding"
   ],
   "devDependencies": {
-    "fava": "^0.2.1",
-    "tsex": "^3.0.1",
-    "typescript": "^5.1.6"
+    "fava": "^0.3.4",
+    "tsex": "^4.0.2",
+    "typescript": "^5.7.3"
   }
 }
