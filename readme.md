@@ -7,7 +7,7 @@ The produced Uint8Array will always be 4-bytes long.
 ## Install
 
 ```sh
-npm install --save int32-encoding
+npm install int32-encoding
 ```
 
 ## Usage
