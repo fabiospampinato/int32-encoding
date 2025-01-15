@@ -3,7 +3,7 @@
   "repository": "github:fabiospampinato/int32-encoding",
   "description": "Int32 encoding, a simple way to convert 32-bit signed integers to Uint8Arrays, and vice versa.",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "dist/index.js",
   "exports": "./dist/index.js",
